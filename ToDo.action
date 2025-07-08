@@ -1,0 +1,9 @@
+# goal
+float64 x #target x
+float64 y #target y 
+---
+# result
+float64 r #reached x
+float64 s #reached y
+---
+# feedback
